@@ -1,2 +1,2 @@
-# Machine-Learning-Data-Fairness-and-Bias
-Machine Learning Data Fairness and Bias
+# Builing-Responsible-AI-with-Python
+Builing Responsible AI with Python
